@@ -1,4 +1,4 @@
-from my_model import *
+from my_modul import *
 
 while True:
     first_attempt = show_menu()
@@ -28,3 +28,4 @@ while True:
         break
     else:
         print("invalid number!!!")
+
