@@ -52,3 +52,4 @@ def remove_item():
         list_of_the_name.remove(remove_the_item)
     else:
         print("invalid choice.")
+
